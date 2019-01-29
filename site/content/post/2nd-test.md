@@ -1,8 +1,8 @@
 ---
-title: This is a test
+title: This is a 2nd test
 date: 2019-01-29T11:03:21.488Z
-description: 'blurb '
-image: /img/about-jumbotron.jpg
+description: 'blurb blurb'
+image: /img/blog-chemex.jpg
 ---
 The best predictor of code quality is simply how much code review occurs within a project (see [previous post](https://lgtm.com/blog/does_review_improve_quality)). It's vital to foster a positive review culture that encourages more pairs of eyes, rather than more time staring.
 
